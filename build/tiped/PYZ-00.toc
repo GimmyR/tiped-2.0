@@ -1,0 +1,498 @@
+('D:\\Documents\\tiped-2.0\\build\\tiped\\PYZ-00.pyz',
+ [('PyQt5',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt5\\__init__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils.qt',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\qt.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ast.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\csv.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dis.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('models', 'D:\\Documents\\tiped-2.0\\models\\__init__.py', 'PYMODULE'),
+  ('models.KBTable',
+   'D:\\Documents\\tiped-2.0\\models\\KBTable.py',
+   'PYMODULE'),
+  ('models.KBTableException',
+   'D:\\Documents\\tiped-2.0\\models\\KBTableException.py',
+   'PYMODULE'),
+  ('models.KBTask', 'D:\\Documents\\tiped-2.0\\models\\KBTask.py', 'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pathlib.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\random.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\signal.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\socket.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\threading.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\typing.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('views', 'D:\\Documents\\tiped-2.0\\views\\__init__.py', 'PYMODULE'),
+  ('views.aboutDialog',
+   'D:\\Documents\\tiped-2.0\\views\\aboutDialog.py',
+   'PYMODULE'),
+  ('views.buttonsFrame',
+   'D:\\Documents\\tiped-2.0\\views\\buttonsFrame.py',
+   'PYMODULE'),
+  ('views.buttonsFrame_edit',
+   'D:\\Documents\\tiped-2.0\\views\\buttonsFrame_edit.py',
+   'PYMODULE'),
+  ('views.chooseColorButton',
+   'D:\\Documents\\tiped-2.0\\views\\chooseColorButton.py',
+   'PYMODULE'),
+  ('views.column', 'D:\\Documents\\tiped-2.0\\views\\column.py', 'PYMODULE'),
+  ('views.columnBody',
+   'D:\\Documents\\tiped-2.0\\views\\columnBody.py',
+   'PYMODULE'),
+  ('views.columnButton',
+   'D:\\Documents\\tiped-2.0\\views\\columnButton.py',
+   'PYMODULE'),
+  ('views.columnHeader',
+   'D:\\Documents\\tiped-2.0\\views\\columnHeader.py',
+   'PYMODULE'),
+  ('views.columnLabel',
+   'D:\\Documents\\tiped-2.0\\views\\columnLabel.py',
+   'PYMODULE'),
+  ('views.createTask',
+   'D:\\Documents\\tiped-2.0\\views\\createTask.py',
+   'PYMODULE'),
+  ('views.editTask',
+   'D:\\Documents\\tiped-2.0\\views\\editTask.py',
+   'PYMODULE'),
+  ('views.marker', 'D:\\Documents\\tiped-2.0\\views\\marker.py', 'PYMODULE'),
+  ('views.menuBar', 'D:\\Documents\\tiped-2.0\\views\\menuBar.py', 'PYMODULE'),
+  ('views.removeButton',
+   'D:\\Documents\\tiped-2.0\\views\\removeButton.py',
+   'PYMODULE'),
+  ('views.root', 'D:\\Documents\\tiped-2.0\\views\\root.py', 'PYMODULE'),
+  ('views.saveButton',
+   'D:\\Documents\\tiped-2.0\\views\\saveButton.py',
+   'PYMODULE'),
+  ('views.searchBar',
+   'D:\\Documents\\tiped-2.0\\views\\searchBar.py',
+   'PYMODULE'),
+  ('views.task', 'D:\\Documents\\tiped-2.0\\views\\task.py', 'PYMODULE'),
+  ('views.taskBody',
+   'D:\\Documents\\tiped-2.0\\views\\taskBody.py',
+   'PYMODULE'),
+  ('views.taskButton',
+   'D:\\Documents\\tiped-2.0\\views\\taskButton.py',
+   'PYMODULE'),
+  ('views.taskEdit',
+   'D:\\Documents\\tiped-2.0\\views\\taskEdit.py',
+   'PYMODULE'),
+  ('views.taskHeader',
+   'D:\\Documents\\tiped-2.0\\views\\taskHeader.py',
+   'PYMODULE'),
+  ('views.warningNotSaved',
+   'D:\\Documents\\tiped-2.0\\views\\warningNotSaved.py',
+   'PYMODULE'),
+  ('views.window', 'D:\\Documents\\tiped-2.0\\views\\window.py', 'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Gimmy '
+   'Razafimbelo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipimport.py',
+   'PYMODULE')])
