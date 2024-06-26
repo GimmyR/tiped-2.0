@@ -1,5 +1,5 @@
-./build/
-./dist/
-./tiped.spec
-./models/__pycache__/
-./views/__pycache__/
+build/
+dist/
+tiped.spec
+models/__pycache__/
+views/__pycache__/
