@@ -3,7 +3,7 @@
 Download the zipped file and unzip it. The name of the executable is *tiped*.
 
 * Download [here](https://github.com/GimmyR/tiped-2.0-download/blob/main/tiped-ubuntu-22.04.tar.xz) for Ubuntu 22.04.
-* Download [here](./dist/tiped-windows-11.zip) for Windows 11.
+* Download [here](https://github.com/GimmyR/tiped-2.0-download/blob/main/tiped-windows-11.zip) for Windows 11.
 
 # For developers
 
