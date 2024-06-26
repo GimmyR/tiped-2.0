@@ -206,4 +206,9 @@ class KBTable :
         Return the percentage of Done Task compared to All Tasks.
         """
 
-        return "%.2f" % ((float(self.size(KBTable.columns[2])) / float(self.size())) * 100)
+        totalSize = self.size()
+
+        if totalSize == 0:
+            return 0
+        else:
+            return "%.2f" % ((float(self.size(KBTable.columns[2])) / float(totalSize)) * 100)
