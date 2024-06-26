@@ -47,13 +47,8 @@ class Ui_EditTask(QtWidgets.QDialog):
         self.layout.addWidget(self.taskEdit)
         self.layout.addWidget(self.buttonsFrame)
 
-        self.retranslateUi()
+        self.setWindowTitle("Edit Task")
         QtCore.QMetaObject.connectSlotsByName(self)
-
-
-    def retranslateUi(self):
-        _translate = QtCore.QCoreApplication.translate
-        self.setWindowTitle(_translate("CreateTask", "Create Task"))
 
 
     def save(self):
