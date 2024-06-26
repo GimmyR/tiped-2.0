@@ -21,6 +21,6 @@ Download the zipped file and unzip it. The name of the executable is *tiped*.
 
 You need to install **PyInstaller**.
 
-Then run command `pyinstaller --noconsole tiped.py` in the directory of the project.
+Then run command `pyinstaller --onefile --windowed --icon=images/logo.ico tiped.py` in the directory of the project.
 
 Don't forget to copy the **images** directory in the same directory of your executable (usually in *dist/tiped/*)
