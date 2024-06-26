@@ -23,6 +23,7 @@ class Ui_TaskBody(QtWidgets.QFrame):
 
         self.label = QtWidgets.QLabel(self)
         self.label.setText(text)
+        self.label.setWordWrap(True)
         self.label.setAlignment(QtCore.Qt.AlignCenter)
         
         self.layout.addWidget(self.label, 0, 0, 1, 1)
