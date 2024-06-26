@@ -186,7 +186,7 @@ class Ui_MainWindow(QtWidgets.QMainWindow):
         Do what all we need to do to open file.
         """
 
-        fileinfo = QtWidgets.QFileDialog.getOpenFileName(None, "Open File", None, "Kanban Table (*.kbt)")
+        fileinfo = QtWidgets.QFileDialog.getOpenFileName(None, "Open File", None, "KBT File (*.kbt)")
         if fileinfo[0] != "":
             self.openFile(fileinfo[0])
 
@@ -207,7 +207,7 @@ class Ui_MainWindow(QtWidgets.QMainWindow):
         Do this when actionSaveAs is triggered.
         """
 
-        fileinfo = QtWidgets.QFileDialog.getSaveFileName(None, "Save as", None, "Kanban Table (*.kbt)")
+        fileinfo = QtWidgets.QFileDialog.getSaveFileName(None, "Save as", "table.kbt", "KBT File (*.kbt)")
         if fileinfo[0] != "":
             self.saveToFile(fileinfo[0])
 
@@ -222,9 +222,7 @@ class Ui_MainWindow(QtWidgets.QMainWindow):
             self.save()
 
         else:
-            fileinfo = QtWidgets.QFileDialog.getSaveFileName(None, "Save as", None, "Kanban Table (*.kbt)")
-            if fileinfo[0] != "":
-                self.saveToFile(fileinfo[0])
+            self.saveAsIsTriggered()
 
 
     def newFileIsTriggered(self):
